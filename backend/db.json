@@ -1,0 +1,39 @@
+{
+  "products": [
+    {
+      "id": 2,
+      "name": "Notebook Mac Pro",
+      "price": 12000.89
+    },
+    {
+      "id": 3,
+      "name": "Samsung S20+",
+      "price": 5000.89
+    },
+    {
+      "name": "Smatphone",
+      "price": "2600.00",
+      "id": 5
+    },
+    {
+      "name": "xbox series x",
+      "price": "4999.99",
+      "id": 6
+    },
+    {
+      "name": "Playstation 5",
+      "price": "4999.99",
+      "id": 7
+    },
+    {
+      "name": "Cadeira de plástico",
+      "price": "20.99",
+      "id": 8
+    },
+    {
+      "name": "Teste",
+      "price": "12",
+      "id": 9
+    }
+  ]
+}
